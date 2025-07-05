@@ -1,0 +1,5 @@
+package com.fita.OnlineNotes.controller;
+
+public class NoteController {
+
+}
